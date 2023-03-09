@@ -1,0 +1,14 @@
+cd = 
+ls = 
+pwd =  prints the absolute path name of the current working directory
+less =
+file =
+ln =
+cp =
+mv =
+rm =
+mkdir =
+type =
+which =
+help =
+man =
